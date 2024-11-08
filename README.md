@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="wave.gif" alt="👋" width="30" />, I'm Chamod Lakshitha</h1>
+<h1 align="center">Hi <img src="wave.gif" alt="👋" width="50" height="50" />, I'm Chamod Lakshitha</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3><br>
 
 <h3 align="center">Connect with me:</h3>
