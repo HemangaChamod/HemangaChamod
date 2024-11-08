@@ -6,6 +6,7 @@
     <a href="https://linkedin.com/in/chamodlakshitha" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamodlakshitha" height="30" width="40" />
     </a>
+    <a href="https://twitter.com/hemangachamod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemangachamod" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/chamodlakshitha" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chamodlakshitha" height="30" width="40" />
     </a>
