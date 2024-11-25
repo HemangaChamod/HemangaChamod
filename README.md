@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="wave.gif" alt="👋" width="50" height="50" />, I'm Chamod Lakshitha</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3><br>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
     <a href="https://linkedin.com/in/chamodlakshitha" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamodlakshitha" height="30" width="40" />
@@ -11,7 +11,7 @@
 <a href="https://instagram.com/chamod_rathnawardana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamod_rathnawardana" height="30" width="40" /></a>
 </p><br>
 
-<h3 align="center">My Skills:</h3>
+<h3 align="center">My Skills</h3>
 <p align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
