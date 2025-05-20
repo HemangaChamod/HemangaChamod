@@ -1,6 +1,6 @@
 <p align="center">
   <picture align="center">
-    <img align="center" src="coding.gif" width=150px>
+    <img align="center" src="coding.gif" width=150px height="150">
   </picture>
 </p>
 
